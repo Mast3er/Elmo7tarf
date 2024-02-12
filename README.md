@@ -102,6 +102,9 @@
     text-shadow: 0px 0px 10px;
     font-weight: bold;
 } 
+body, html {
+  height: 100%;
+  } 
     </style>
     <!--int64-->
     <script>
@@ -1424,7 +1427,8 @@
         <button class="btn" onclick="webrte()">☆ Web RTE</button>
     </div>
     <div class="bottom">
-        <p>Web-Design/Developed & Hosted by <a class="Elmo7tarf" href="" style="color: rgb(255, 0, 0);">Mast3er</a></p>
-        <p class="Elmo7tarf" style="font-size: 18;">Mast3er host</p>          
+        <p>Web-Design/Developed & Hosted by <a class="Elmo7tarf" href="https://              " style="color: rgb(255, 0, 0);">Elmo7tarf</a></p>
+        <p class="Elmo7tarf" style="font-size: 18;">Elmo7tarf host</p>
+    </div>
 </body>
 </html>

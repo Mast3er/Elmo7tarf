@@ -1426,19 +1426,6 @@
     <div class="bottom">
         <p>Web-Design/Developed & Hosted by <a class="Elmo7tarf" href="" style="color: rgb(255, 0, 0);">Mast3er</a></p>
         <p class="Elmo7tarf" style="font-size: 18;">Mast3er host</p>
-               <span>
-<b>Client System Information</b>
-    <p>Browser: <span id="browser"></span></p>
-    <p>OS: <span id="os"></span></p>
-    <p>Language: <span id="language"></span></p>
-    <p>Screen Resolution: <span id="screen"></span></p>
-  <script>
-    document.getElementById("browser").innerText = navigator.userAgent;
-    document.getElementById("os").innerText = navigator.platform;
-    document.getElementById("language").innerText = navigator.language;
-    document.getElementById("screen").innerText = screen.width + "x" + screen.height;
-  </script>
-</span>
-    </div>
+              
 </body>
 </html>

@@ -1427,7 +1427,7 @@ body, html {
         <button class="btn" onclick="webrte()">☆ Web RTE</button>
     </div>
     <div class="bottom">
-        <p>Web-Design/Developed & Hosted by <a class="Elmo7tarf" href="https://              " style="color: rgb(255, 0, 0);">Elmo7tarf</a></p>
+        <p>Web-Design/Developed & Hosted by <a class="Elmo7tarf" href="https://web.facebook.com/profile.php?id=100095031752694" style="color: rgb(255, 0, 0);">Elmo7tarf</a></p>
         <p class="Elmo7tarf" style="font-size: 18;">Elmo7tarf host</p>
     </div>
 </body>

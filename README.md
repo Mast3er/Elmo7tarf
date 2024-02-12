@@ -1425,7 +1425,6 @@
     </div>
     <div class="bottom">
         <p>Web-Design/Developed & Hosted by <a class="Elmo7tarf" href="" style="color: rgb(255, 0, 0);">Mast3er</a></p>
-        <p class="Elmo7tarf" style="font-size: 18;">Mast3er host</p>
-              
+        <p class="Elmo7tarf" style="font-size: 18;">Mast3er host</p>          
 </body>
 </html>
